@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Fullstack Web Development<br>🎯 Goals: Create an awesome Portfolio<br>🎲 Fun fact: Dont quote Star Wars near me</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Fullstack Web Development<br>🎯 Goals: Create an awesome Portfolio<br>🎲 Fun fact: One with the force I am</p>
 
 ###
 
