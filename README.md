@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vamsi Kaparthi and I'm an aspiring Web Developer</p>
+<p align="left">My name is Vamsi Kaparthi and I'm an aspiring Web Developer and Hardware engineer</p>
 
 ###
 
