@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vamsi Kaparthi and I'm an aspiring Web Developer and Hardware engineer</p>
+<p align="left">My name is Vamsi Kaparthi and I'm an aspiring Design Verification engineer</p>
 
 ###
 
@@ -10,10 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Fullstack Web Development<br>🎯 Goals: Create an awesome Portfolio<br>🎲 Fun fact: One with the force I am</p>
+<p align="left">✨ Finding bugs since 2025<br>📚 I'm currently learning Design Verification<br>🎯 Goals: Create an awesome Portfolio<br>🎲 Fun fact: One with the force I am</p>
 
 ###
-
+<!---
 <h2 align="left">I code with</h2>
 
 ###
@@ -30,3 +30,4 @@
 </div>
 
 ###
+--->
